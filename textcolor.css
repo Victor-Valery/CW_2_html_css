@@ -31,3 +31,46 @@ h2 {
 h3 {
     text-decoration: underline;
 }
+/* text transformation */
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    text-transform: lowercase;
+}
+h3 {
+    text-transform: capitalize;
+}
+/* text indentation */
+p {
+    text-indent: 10px;
+}
+/* letter spacing */
+h1 {
+    letter-spacing: 3px;
+}
+h2 {
+    letter-spacing: -3px;
+}
+/* line height */
+p.small {
+    line-height: 0.8;
+}
+p.big {
+    line-height: 1.8;
+}
+/* text direction */
+p {
+    direction: rtl;
+}
+/* word spacing */
+h1 {
+    word-spacing: 10px;
+}
+h2 {
+    word-spacing: -5px;
+}
+/* text shadow */
+p {
+    text-shadow: 1px 2px blue;
+}
