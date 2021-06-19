@@ -1,0 +1,21 @@
+/* Links */
+a{
+    color: red;
+}
+/* the links have four states */
+a:link {
+    color: black;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: blue;
+}
+/* text decoration */
+a:link {
+    text-decoration: none;
+}
