@@ -1,0 +1,14 @@
+/* The Display property */
+div {
+  display: none;
+}
+a{
+    display: block;
+}
+/* Hide an Element */
+h1{
+    display: none;
+}
+h1{
+    visibility: hidden;
+}

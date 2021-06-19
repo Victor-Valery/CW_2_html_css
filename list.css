@@ -1,0 +1,19 @@
+ul.first {
+    list-style-type: circle;
+    /* list-style-type: disc,  square, decimal, lower-greek, katakana, */
+}
+ul.second {
+    list-style-type: none;
+}
+ul {
+    list-style-image: url('bullet.jpg');
+}
+ul.first {
+    list-style-position: outside;
+}
+ul.second {
+    list-style-position: inside;
+}
+ul {
+    list-style: square inside url("bullet.jpg");
+}
